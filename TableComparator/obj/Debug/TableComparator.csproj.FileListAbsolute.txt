@@ -1,0 +1,7 @@
+C:\Users\andreas\Documents\VisualStudio_Projects\TableComparator\TableComparator\obj\Debug\TableComparator.csproj.CoreCompileInputs.cache
+C:\Users\andreas\Documents\VisualStudio_Projects\TableComparator\TableComparator\bin\Debug\TableComparator.exe.config
+C:\Users\andreas\Documents\VisualStudio_Projects\TableComparator\TableComparator\bin\Debug\TableComparator.exe
+C:\Users\andreas\Documents\VisualStudio_Projects\TableComparator\TableComparator\bin\Debug\TableComparator.pdb
+C:\Users\andreas\Documents\VisualStudio_Projects\TableComparator\TableComparator\obj\Debug\TableComparator.exe
+C:\Users\andreas\Documents\VisualStudio_Projects\TableComparator\TableComparator\obj\Debug\TableComparator.pdb
+C:\Users\andreas\Documents\VisualStudio_Projects\TableComparator\TableComparator\obj\Debug\TableComparator.csprojResolveAssemblyReference.cache
